@@ -1,6 +1,6 @@
 # Kodu  
 
-![alt text](./img/kodu.jpg "Kodu")
+![alt text](./img/kodu.jpg =100x100)
 
 ## What is Kodu?
 
