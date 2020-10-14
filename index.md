@@ -1,5 +1,7 @@
 # Kodu  
 
+![alt text](./img/kodu.jpg "Kodu")
+
 ## What is Kodu?
 
 Kodu lets kids create games on the PC and Xbox via a simple visual programming language. Kodu can be used to teach creativity, problem solving, storytelling, as well as programming. Anyone can use Kodu to make a game, but its recommended age is 9-14 years. 
