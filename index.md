@@ -4,5 +4,6 @@
 
 This is a paragraph
 
-|-------+------|
-|cell1|cell2|
+|header 1|header2|
+|-------|------|
+|cell1 | cell2|
